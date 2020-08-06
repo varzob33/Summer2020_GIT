@@ -30,4 +30,4 @@ public class Zombie_Attack {
             System.out.println("---- EXTINCT ----");
         }
     }
-}
+
